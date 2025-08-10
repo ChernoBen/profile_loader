@@ -39,6 +39,16 @@
 python main.py
 ```
 
+### 📄 Saída gerada
+
+Após a execução do arquivo `main.py`, será criado um arquivo com nomenclatura no padrão:
+
+```
+dia-mes-ano-hora:minuto:segundo-profiles.csv
+```
+
+Esse arquivo conterá os dados dos perfis processados pelo algoritmo.
+
 ---
 
 ## 🇺🇸 How to configure the app
@@ -80,7 +90,12 @@ python main.py
 python main.py
 ```
 
+### 📄 Generated output
+
+After running the `main.py` file, a file will be created following the naming pattern:
+
+```
+day-month-year-hour:minute:second-profiles.csv
 ```
 
-Se quiser, posso já incluir **ícones e formatação com tabelas** para deixar o README mais visual e amigável. Quer que eu já te faça essa versão mais bonita?
-```
+This file will contain the data of the profiles processed by the algorithm.
